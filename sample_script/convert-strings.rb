@@ -5,6 +5,7 @@
 # by hwj4477@gmail.com
 #
 
+# gem install convert-strings-ios-and
 require 'convert-strings-ios-and'
 
 def print_usage
