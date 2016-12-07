@@ -1,4 +1,4 @@
-# Convert Strings iOS(Localizable.strings) <-> Android(strings.xml)
+# Convert Strings<br />iOS(Localizable.strings) <-> Android(strings.xml)
 - rubygems : http://rubygems.org/gems/convert-strings-ios-and
 
 ## Installation
