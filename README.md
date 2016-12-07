@@ -11,9 +11,17 @@ gem install convert-strings-ios-and
 ```ruby
 require 'convert-strings-ios-and'
 
+# iOS -> Android
 ConvertStrings.ios_to_android("file_path") do |result_path|
 
   puts "[Convert String iOS to Android] Created file : #{result_path}"
+      
+end
+
+# Android -> iOS
+ConvertStrings.android_to_ios("file_path") do |result_path|
+
+  puts "[Convert String Android to iOS] Created file : #{result_path}"
       
 end
 
